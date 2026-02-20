@@ -1,0 +1,5 @@
+{
+  "name": "VitaSense AI Thermometer",
+  "description": "An AI-powered platform for a wearable thermometer that continuously takes temperature readings, analyzes them for signs of heatstroke or illness, and alerts users and healthcare professionals to potential health risks.",
+  "requestFramePermissions": []
+}
